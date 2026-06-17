@@ -14,13 +14,6 @@ This repository contains implementations of predictive modeling techniques appli
 | Visualization | Matplotlib, Seaborn |
 | Modeling | Scikit-Learn |
 
-##  Results
 
-| Model | Metric | Score |
-|-------|--------|-------|
-| Linear Regression | R | 0.85 |
-| Random Forest | R | 0.89 |
-
-##  Execution
 
 
